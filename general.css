@@ -1,0 +1,89 @@
+
+        .navbar .navbar-nav .nav-item {
+            margin: 0px 15px;
+        }
+        #climate{
+            font-weight: bolder;
+            color: rgb(0, 88, 123);
+        }
+        #head1{
+            text-align: center;
+            margin: 31px;
+            font-weight: bolder;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        #subhead{
+          font-weight: bolder;
+        }
+        .counter{
+          font-weight: bolder;
+        }
+        .visitCounter{
+          width: 100%;
+          height: 100%;
+          align-items: center;
+        }
+        .time1{
+          margin-left: 20px;
+          margin-top: 20px;
+          font-weight: bolder;
+          font-size: larger;
+        }
+        #head2{
+      padding-left: 4px;
+      }
+      #searchBox {
+    padding: 75px;
+      }
+
+      #searchBox1{
+        font-weight: bolder;
+      }
+      .t1 {
+      padding: 107px;
+      }
+      #subLine{
+        text-align: center;
+        font-weight: bolder;
+        font-size: 22px;
+        padding:18px;
+        color: white;
+        border-radius: 20px;
+        background-color: red; 
+      }
+      #subLine:hover{
+        background-color: blueviolet;
+      }
+      #city{
+        padding: 28px;
+      }
+      .time1 {
+    font-weight: bold;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-weight: bolder;
+    font-size: larger;
+    padding: 11px;
+    background-color: rgb(109, 251, 251);
+      }
+      .container1 {
+    padding: -8px;
+    margin: -85px;
+       }
+       #counter1{
+        text-align: center;
+        font-weight: bolder;
+        color: black;
+        font-size: larger;
+        background-color: white;
+       }
+       #text1{
+        background-color: azure;
+       }
+       #chkButton{
+        color: whitesmoke;
+       }
+       .homePage{
+
+       }
